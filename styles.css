@@ -1,5 +1,10 @@
+.navigation-links{
+color: #946ea0;
+size: 2em;
+}
+
 body{
-    background-color: #271d28;
+    background-color: #141311;
 }
 .menu-title {
     text-align: center;
@@ -8,7 +13,47 @@ body{
 
 h1,h2,h3,h4 {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: larger;
+    font-size: 1.5em;
     margin: auto;
     color:#ee00e8;
 }
+
+.about-us-paragraph{
+color: #946ea0;
+}
+
+h2{
+    text-align: center;
+    text-decoration-color: blueviolet;
+}
+.menu-description{
+    color: #946ea0;
+    font-size: 1em;
+    line-height: 0cap;
+}
+
+.disclaimer{
+    color: crimson;
+}
+
+#location{
+Color: #946ea0
+}
+
+#hours{
+    Color: #946ea0
+    }
+
+    #socialMedia{
+        color:#946ea0
+    }
+
+    .image-trailer{
+        width: 100%;
+        height: auto;
+    }
+
+    .image-hero-chef{
+        width: 100%;
+        height: auto;
+    }
