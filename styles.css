@@ -1,8 +1,3 @@
-.navigation-links{
-color: #946ea0;
-size: 2em;
-}
-
 body{
     background-color: #141311;
 }
@@ -20,6 +15,8 @@ h1,h2,h3,h4 {
 
 .about-us-paragraph{
 color: #946ea0;
+padding: auto;
+margin-inline-start: 1%;
 }
 
 h2{
@@ -30,6 +27,8 @@ h2{
     color: #946ea0;
     font-size: 1em;
     line-height: 0cap;
+    padding: auto;
+margin-inline-start: 2.5%;
 }
 
 .disclaimer{
@@ -57,3 +56,5 @@ Color: #946ea0
         width: 100%;
         height: auto;
     }
+
+    
