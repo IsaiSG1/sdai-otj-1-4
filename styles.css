@@ -15,7 +15,7 @@ h1,h2,h3,h4 {
 
 .about-us-paragraph{
 color: #946ea0;
-padding: auto;
+padding: 1.5px;
 margin-inline-start: 1%;
 }
 
@@ -27,7 +27,7 @@ h2{
     color: #946ea0;
     font-size: 1em;
     line-height: 0cap;
-    padding: auto;
+    padding: 1px;
 margin-inline-start: 2.5%;
 }
 
@@ -57,4 +57,12 @@ Color: #946ea0
         height: auto;
     }
 
-    
+.favorites-title {
+    text-align: center;
+    width: 800px;
+}
+
+.favorites-paragraph{
+    color: #946ea0;
+    font-size: 1em;
+}
