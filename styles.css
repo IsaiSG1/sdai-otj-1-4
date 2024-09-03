@@ -66,3 +66,15 @@ Color: #946ea0
     color: #946ea0;
     font-size: 1em;
 }
+
+#favorites-gallery{
+    display: flex; /* Use Flexbox to arrange images horizontally */
+    flex-wrap: wrap; /* Ensure images wrap to the next line if needed */
+    justify-content: center; /* Center the images horizontally */
+    gap: 10px; /* Add space between images */
+    padding: 20px; /* Add padding around the gallery */    
+}
+
+.fave-Dish-Pic{
+    inline-size: 400px;
+}
