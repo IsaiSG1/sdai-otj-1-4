@@ -68,13 +68,33 @@ Color: #946ea0
 }
 
 #favorites-gallery{
-    display: flex; /* Use Flexbox to arrange images horizontally */
-    flex-wrap: wrap; /* Ensure images wrap to the next line if needed */
-    justify-content: center; /* Center the images horizontally */
-    gap: 10px; /* Add space between images */
-    padding: 20px; /* Add padding around the gallery */    
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: center; 
+    gap: 10px; 
+    padding: 20px;    
 }
 
 .fave-Dish-Pic{
     inline-size: 400px;
 }
+
+#socialMedia {
+    padding: 20px 0;
+    text-align: center; 
+}
+
+
+.footer-social ul {
+    display: flex;
+    justify-content: center; 
+    padding: 0;
+    margin: 0;
+    list-style-type: none;
+}
+.socials {
+    height: 100px;
+    width: 100px;
+    font-size: 100px;
+    }
+    
