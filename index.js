@@ -18,7 +18,16 @@ function fadeIn(element, duration) {
 
     document.addEventListener('DOMContentLoaded', function() {
         const heroImage = document.querySelector('.image-trailer');
-        fadeIn(heroImage, 10000);
+        fadeIn(heroImage, 2000);
+
+        const faveMenu = document.querySelector('#menu');
+        fadeIn(faveMenu, 3000);
+
+        const devFave = document.querySelector('.favorites');
+        fadeIn(devFave, 4000);
+
+        const location = document.querySelector('#location');
+        fadeIn(location, 5000);
     });
 //image-trailer //Class-Food truck icon
 //menu //id-Dev Dish's quarterly menu
