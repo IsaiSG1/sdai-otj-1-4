@@ -1,6 +1,6 @@
 function fadeIn(element, duration) {
     let opacity = 0; // Initial opacity
-    element.style.opacity = 0;
+    element.style.opacity = 10;
     element.style.display ='block';
    
     const increment = 50 / duration; // Amount to increment opacity
